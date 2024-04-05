@@ -2,7 +2,7 @@
 
 ---
 
-<img style="text-align: center;" src="./public/profile.png"></img>
+<img align="center" src="./public/profile.png"></img>
 
 ---
 
