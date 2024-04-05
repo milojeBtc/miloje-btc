@@ -1,4 +1,4 @@
-# Developer Portfolio
+# Miloje Nikolic Portfolio
 
 ---
 
