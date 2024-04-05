@@ -1,6 +1,5 @@
-<center>
-<h3>Miloje Nikolic</h3>
-</center>
+
+<h3 class="text-center">Miloje Nikolic</h3>
 
 ---
 
