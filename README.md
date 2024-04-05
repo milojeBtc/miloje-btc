@@ -1,4 +1,4 @@
-# Miloje Nikolic Portfolio
+<h3 style="text-align: center;">Miloje Nikolic</h3>
 
 ---
 
