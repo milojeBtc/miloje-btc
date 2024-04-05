@@ -1,0 +1,91 @@
+import ayla from '/public/image/ayla.jpg';
+import crefin from '/public/image/crefin.jpg';
+import realEstate from '/public/image/real-estate.jpg';
+import travel from '/public/image/travel.jpg';
+
+export const projectsData = [
+    {
+        id: 1,
+        name: 'Ordinal Swap (Bitcoin)',
+        URL: 'https://munchswap.xyz/',
+        description: "Munchswap is bitcoin ordinal multi swap platform. Users can swap ordinals with their ordinals or buy use BTC. I used Next.js for Frontend and Nest.js for backend, PostgreSQL for Database, Docker for Devops. For Generate Swap PSBT, I used bitcoinJs lib and UTXO. Now it's live in bitcoin mainnet. Users can use Unisat, XVerse and Leader wallets for use this platform.",
+        tools: ['Bitcoin', 'Unisat', 'MongoDB', 'Tailwind CSS', 'Next.js'],
+        role: 'Blockchain Bitcoin Developer',
+        code: '',
+        demo: '',
+        cover_image: '/project/munch.png',
+    },
+    {
+        id: 2,
+        name: 'BRC20 Airdrop (Bitcoin)',
+        URL: 'https://bmpbrc.com/',
+        description: "BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.",
+        tools: ['Tailwind CSS', "TypeScript", "Brc20", "Node.js", "Bitcoin"],
+        role: 'Blockchain Bitcoin Developer',
+        code: '',
+        demo: '',
+        cover_image: '/project/bmpbrc.png',
+    },
+    {
+        id: 3,
+        name: 'Asigna Bitcoin Multisig(Bitcoin)',
+        URL: 'https://btc.asigna.io/',
+        description: 'The multisig solution created for Bitcoin, which utilize the Taproot Bitcoin update, facilitating the use of Ordinals, BRC20, and enabling users to minimize gas fees as much as possible.',
+        tools: ['React', 'Express', 'TypeScript', 'MongoDB', 'JWT'],
+        code: '',
+        role: 'Blockchain Bitcoin Developer',
+        demo: '',
+        cover_image: '/project/asigna.png',
+    },
+    {
+        id: 4,
+        name: 'Satoshi Punks(Bitcoin)',
+        URL: 'https://www.satoshipunks.art/',
+        description: "At Satoshi Punks, we are excited to introduce you to a world of possibilities with NFTs. We believe that NFTs represent a revolutionary shift in the way we own and trade digital assets, and we are here to help you navigate this innovative space with confidence and expertise",
+        tools: ['React', 'Material UI', 'Redux', "Bitcoin", "Ordinal"],
+        code: '',
+        role: 'Blockchain Bitcoin Developer',
+        demo: '',
+        image: ayla,
+        cover_image: '/project/satoshi.png',
+    },
+    {
+        id: 5,
+        name: 'Galactic Kingdom P2E Game (Bitcoin, Solana)',
+        URL: 'https://galactickingdom.io/',
+        description: 'The Galactic Kingdom P2E Game is inspired by the concept of unity found in the popular manga series "One Piece," and is powered by a sophisticated network infrastructure. Players are invited to embark on a journey of exploration, construction, and conquest within a vast galactic realm. By collaborating and competing with other users, players have the opportunity to establish and expand their own kingdoms, creating a unique and immersive experience in the cosmic landscape.',
+        tools: ['Unity', 'Express', 'TypeScript', 'MongoDB', 'JWT', 'Bitcoin', 'Solana', 'Web Socket'],
+        code: '',
+        role: 'Blockchain Bitcoin Developer',
+        demo: '',
+        cover_image: '/project/galactickingdom.png',
+    },
+    {
+        id: 6,
+        name: 'Galactic Kingdom Datch Auction(Bitcoin)',
+        URL: 'https://gk-da-fe.vercel.app/',
+        description: "The Galactic Kingdom Datch Auction platform offers customers the opportunity to acquire the coveted 7200 Conquer Ordinals through a seamless transaction process. Operating on the secure bitcoin network, the platform steadily decreases the price every 6 blocks, ensuring a fair and competitive bidding environment. Once all tickets are sold or the pre-determined clearing price is met, the auction concludes and customers receive their ordinals in the enchanting realm of the magic Eden.",
+        tools: ['React', 'NodeJS', 'Redux', "Bitcoin", "Ordinal", "Stress Test", "MongoDB"],
+        code: '',
+        role: 'Blockchain Bitcoin Developer',
+        demo: '',
+        image: ayla,
+        cover_image: '/project/gkda.png',
+    }
+];
+
+// https://ibb.co/4FHgQrm Dexordi
+
+// Do not remove any property.
+// Leave it blank instead as shown below
+
+// {
+//     id: 1,
+//     name: '',
+//     description: "",
+//     tools: [],
+//     role: '',
+//     code: '',
+//     demo: '',
+//     image: crefin,
+// },
