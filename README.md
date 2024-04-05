@@ -3,9 +3,9 @@
 
 ---
 
-<center>
+<div align="center">
 <img src="./public/profile.png"></img>
-</center>
+</div>
 
 ---
 
