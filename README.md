@@ -2,7 +2,7 @@
 
 ---
 
-![](./public/profile.png)
+<img style="text-align: center;" src="./public/profile.png"></img>
 
 ---
 
