@@ -38,7 +38,7 @@ function Blog({ blogs }) {
         <Link
           className="flex items-center gap-1 px-3 py-3 text-xs font-medium tracking-wider text-center text-white no-underline uppercase transition-all duration-200 ease-out rounded-full hover:gap-3 bg-gradient-to-r from-pink-500 to-violet-600 md:px-8 md:py-4 md:text-sm hover:text-white hover:no-underline md:font-semibold"
           role="button"
-          href="https://dev.to/said7388"
+          href="https://github.com/milojeBtc/Project-Overview"
           target='_blank'
         >
           <span>View More</span>
