@@ -13,7 +13,7 @@ export const projectsData = [
         role: 'Blockchain Bitcoin Developer, Lead Developer',
         code: '',
         demo: '',
-        cover_image: '/project/Ordtoolkit.png',
+        cover_image: '/project/ordtoolkit.png',
     },
     {
         id: 2,
