@@ -62,7 +62,7 @@ export const projectsData = [
     },
     {
         id: 6,
-        name: 'Galactic Kingdom Datch Auction(Bitcoin)',
+        name: 'Galactic Kingdom Dutch Auction(Bitcoin)',
         URL: 'https://gk-da-fe.vercel.app/',
         description: "The Galactic Kingdom Datch Auction platform offers customers the opportunity to acquire the coveted 7200 Conquer Ordinals through a seamless transaction process. Operating on the secure bitcoin network, the platform steadily decreases the price every 6 blocks, ensuring a fair and competitive bidding environment. Once all tickets are sold or the pre-determined clearing price is met, the auction concludes and customers receive their ordinals in the enchanting realm of the magic Eden.",
         tools: ['React', 'NodeJS', 'Redux', "Bitcoin", "Ordinal", "Stress Test", "MongoDB"],
@@ -73,19 +73,3 @@ export const projectsData = [
         cover_image: '/project/gkda.png',
     }
 ];
-
-// https://ibb.co/4FHgQrm Dexordi
-
-// Do not remove any property.
-// Leave it blank instead as shown below
-
-// {
-//     id: 1,
-//     name: '',
-//     description: "",
-//     tools: [],
-//     role: '',
-//     code: '',
-//     demo: '',
-//     image: crefin,
-// },
