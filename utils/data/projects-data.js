@@ -18,7 +18,7 @@ export const projectsData = [
     {
         id: 2,
         name: 'DexOrdi (Bitcoin)',
-        URL: 'https://bmpbrc.com/',
+        URL: 'https://dexordi-fe.vercel.app',
         description: "DexOrdi is a cutting-edge platform that offers a seamless and user-friendly trading experience, empowering individuals to delve into the world of decentralized trading on the Bitcoin network. Recognizing the unique challenges associated with decentralized trading on Bitcoin, DexOrdi has positioned itself as a leader in overcoming these obstacles.",
         tools: ['Blockchain' ,'Bitcoin', 'Tailwind CSS', "TypeScript", "Node.js", "Brc20", "CBRC20", "Node.js"],
         role: 'Blockchain Bitcoin Developer',
